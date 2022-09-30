@@ -1,6 +1,6 @@
 # social-media-analytics
 
-This assignment allows students to learn a simple scripting method to crawl data from Twitter/ Youtube/ Facebook or any other kinds of social media platforms. You are required to create a simple script to collect data. Practice how to use API to collect data from various social media services. A term paper must be produced and this would include relevant graphs and tables and it should not exceed 20 pages. You are required to complete the task in a group of 5-6 max students.
+This assignment allows students to learn a simple scripting method to crawl data from Twitter/ Youtube/ Facebook or any other kinds of social media platforms. You are required to create a simple script to collect data. Practice how to use API to collect data from various social media services. A term paper must be produced and this would include relevant graphs and tables and it should not exceed 20 pages.
 
 We are required to:
 1. Choose 4 tools script to collect data from any social media services
